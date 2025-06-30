@@ -1,0 +1,41 @@
+{
+  "name": "cloud9-themes-collection",
+  "displayName": "Cloud9 Themes Collection",
+  "description": "Collection of AWS Cloud9 themes including Jett and Classic Dark",
+  "version": "1.0.0",
+  "publisher": "peyman",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "cloud9",
+    "jett",
+    "dark",
+    "theme",
+    "aws",
+    "collaborative",
+    "authentic"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cloud9 Jett Authentic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cloud9-jett-authentic-theme.json"
+      },
+      {
+        "label": "AWS Cloud9 Classic Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aws-cloud9-classic-dark.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peyman/cloud9-jett-authentic"
+  },
+  "license": "MIT"
+}
