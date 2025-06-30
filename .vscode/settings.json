@@ -1,0 +1,24 @@
+{
+  "editor.rulers": [],
+  "workbench.colorCustomizations": {
+    "editorIndentGuide.background": "#3a3f4b",
+    "editorIndentGuide.activeBackground": "#6b99c7",
+    "scrollbarSlider.background": "#3a3f4b",
+    "scrollbarSlider.hoverBackground": "#6b99c7",
+    "scrollbarSlider.activeBackground": "#6b99c7",
+    "scrollbar.shadow": "#1C1D21",
+    "editorOverviewRuler.background": "#1C1D21",
+    "editorOverviewRuler.border": "#3a3f4b",
+    "editorOverviewRuler.findMatchForeground": "#6b99c7",
+    "editorOverviewRuler.rangeHighlightForeground": "#6b99c7",
+    "editorOverviewRuler.selectionHighlightForeground": "#6b99c7",
+    "editorOverviewRuler.wordHighlightForeground": "#6b99c7",
+    "editorOverviewRuler.wordHighlightStrongForeground": "#6b99c7",
+    "editorOverviewRuler.modifiedForeground": "#6b99c7",
+    "editorOverviewRuler.addedForeground": "#78bd65",
+    "editorOverviewRuler.deletedForeground": "#6b99c7",
+    "editorOverviewRuler.errorForeground": "#6b99c7",
+    "editorOverviewRuler.warningForeground": "#ffcb6b",
+    "editorOverviewRuler.infoForeground": "#6b99c7"
+  }
+}
